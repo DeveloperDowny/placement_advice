@@ -51,7 +51,7 @@ Following are some advice which will help you best prepare for placement process
 
    - Example:
 
-     ````
+     ```
      What are the most asked hr questions. Amswer them on behalf of me. It should should natural and remeber yo write in speaking style
 
      Ownership
@@ -64,8 +64,8 @@ Following are some advice which will help you best prepare for placement process
 
      These are the values of the company. Keep them in mind wgile answering.
 
-     Things about me are written in the attachment```
-     ````
+     Things about me are written in the attachment
+     ```
 
 ## Regrets
 
@@ -109,4 +109,3 @@ Following are the books that have impacted me the most:
   https://nice-verse-5b3.notion.site/Placement_prep_checklist-c0a637f0925c455a996623059e08477f
 - Interview Questions Asked in SPIT Placements (Credits: Stephen Vaz and Siddhesh Sonar) \
   [https://docs.google.com/document/d/1J9J9Q6J9J9Q6J9J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6/edit](https://docs.google.com/document/d/1iDl1FcRZrNqzj4N5d_cNtQH4XDhRVqE2uWXAH424dY8/edit?usp=drivesdk)
- 
