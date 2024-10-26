@@ -108,4 +108,4 @@ Following are the books that have impacted me the most:
 - Gaurav Panchal \
   https://nice-verse-5b3.notion.site/Placement_prep_checklist-c0a637f0925c455a996623059e08477f
 - Interview Questions Asked in SPIT Placements (Credits: Stephen Vaz and Siddhesh Sonar) \
-  [https://docs.google.com/document/d/1J9J9Q6J9J9Q6J9J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6/edit](https://docs.google.com/document/d/1iDl1FcRZrNqzj4N5d_cNtQH4XDhRVqE2uWXAH424dY8/edit?usp=drivesdk)
+  [https://docs.google.com/document/d/1iDl1FcRZrNqzj4N5d_cNtQH4XDhRVqE2uWXAH424dY8/edit?usp=drivesdk](https://docs.google.com/document/d/1iDl1FcRZrNqzj4N5d_cNtQH4XDhRVqE2uWXAH424dY8/edit?usp=drivesdk)
