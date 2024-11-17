@@ -103,7 +103,7 @@ Following are the books that have impacted me the most:
 - 100 Ways to Improve Your Writing - Gary Provost
 - Thinking, Fast and Slow - Daniel Kahneman
 
-## Placement Advie Offered by Others
+## Placement Advice Offered by Others
 
 - Gaurav Panchal \
   https://nice-verse-5b3.notion.site/Placement_prep_checklist-c0a637f0925c455a996623059e08477f
